@@ -1,4 +1,4 @@
-include irvine32.inc
+INCLUDE c:\Users\AR\.vscode\extensions\istareatscreens.masm-runner-0.4.5\native\irvine\Irvine32.inc
 
 .data
 myArray word 2, 8, -9, -6, -3             ; Array of signed integers
